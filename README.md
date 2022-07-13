@@ -3,5 +3,5 @@
 
 Para fazer funcionar esse projeto execute o seguinte código
 ```
-execute x
+node app.js
 ```
